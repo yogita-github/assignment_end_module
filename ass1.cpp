@@ -59,5 +59,25 @@ int main()
 	cout<<"Count of number is :"<<count;
 }
 
+//7)Write a template function swap () to swap the variables of int, char and complex types
+//#include<iostream>
+//using namespace std;
+//
+//template<class A,class B>
+//void func(A a,B b){
+//	cout<<a<<endl<<b<<endl;
+//	a=a+b;
+//	b=a-b;
+//	a=a-b;
+//	
+//	cout<<a<<endl<<b<<endl;
+//	
+//}
+//int main()
+//{
+//	func(1,45);
+//	return 0;
+//}
+
 
 
